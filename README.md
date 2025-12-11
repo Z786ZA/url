@@ -1,3 +1,14 @@
+
+### Header
+---
+
+<p align="center">
+  <a href="https://bitbash.dev" target="_blank">
+    <img src="https://github.com/Z786ZA/Footer-test/blob/main/bitbash1.png" alt="Bitbash Banner" width="70%"></a>
+</p>
+
+
+
 ### Header
 ---
 
